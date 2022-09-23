@@ -194,6 +194,7 @@ textarea {
   }
   .footer {
     border-radius: 10px 10px 0 0;
+    margin-top: 3rem;
   }
 }
 @media screen and (max-width: 576px) {
@@ -205,6 +206,9 @@ textarea {
     flex-wrap: wrap;
     gap: 10px;
     margin-top: 1rem;
+  }
+  .footer {
+    margin-top: 2rem;
   }
 }
 
